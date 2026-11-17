@@ -1,0 +1,6 @@
+{
+  "name": "Hikari Anime - Streaming & HLS Proxy",
+  "description": "Hikari Anime catalog and custom HLS streaming player with auto-fallback to iframe, server-side proxy support, and episode sources manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
